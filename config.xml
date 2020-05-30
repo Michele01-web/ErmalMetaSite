@@ -1,0 +1,20 @@
+<? xml version = " 1.0 " encoding = " UTF-8 " ?>
+< widget xmlns = " http://www.w3.org/ns/widgets " 
+    xmlns: gap = " http://phonegap.com/ns/1.0 " 
+    id = " com.phonegap.example " 
+    versionCode = " 9 " 
+    versione = " 1.0.0 " >
+
+<! - versionCode è facoltativo e solo Android ->
+
+  < nome > Ermal Meta Fan </ nome >
+
+  < descrizione >
+      Un' applicazione dedicata ad Ermal Meta'
+  </ descrizione >
+
+  < author  href = " https://build.phonegap.com "  email = " miki.gorgoglione.01@gmail.com" >
+     Michele Gorgoglione
+  </ autore >
+
+</ widget >
